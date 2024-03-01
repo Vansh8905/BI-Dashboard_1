@@ -3,6 +3,7 @@ Overview
 Project Learnings is an interactive dashboard designed to track and analyze online sales data. It provides users with the ability to explore and gain insights from complex datasets through a variety of visualization techniques.
 
 # Features
+### Dashboard Link: https://1drv.ms/u/s!AlzvRhc87UYiojFBe83TUEyRcqCT?e=axQJLC
 
 
 - Interactive Dashboard: Visualize online sales data in real-time through an intuitive and interactive dashboard interface.
