@@ -11,3 +11,7 @@ Project Learnings is an interactive dashboard designed to track and analyze onli
 - Customization Options: Customize the dashboard using filters and slicers to tailor the view to specific requirements.
 - Data Manipulation: Perform data manipulations such as creating connections, joining new tables, and applying calculations to facilitate analysis.
 - Wide Range of Visualizations: Choose from a selection of customized visualizations including bar charts, pie charts, donut charts, clustered bar charts, scatter charts, line charts, area charts, maps, and slicers.
+
+# Front Image
+[MadhayECS.pdf](https://github.com/Vansh8905/BI-Dashboard_1/files/14465407/MadhayECS.pdf)
+
