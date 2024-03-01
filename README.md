@@ -13,5 +13,5 @@ Project Learnings is an interactive dashboard designed to track and analyze onli
 - Wide Range of Visualizations: Choose from a selection of customized visualizations including bar charts, pie charts, donut charts, clustered bar charts, scatter charts, line charts, area charts, maps, and slicers.
 
 # Front Image
-![Uploading MadhayECS_page-0001.jpg…]()
+[Uploading MadhayECS_page-0001.jpg…]
 
